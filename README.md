@@ -8,5 +8,5 @@ Clone this code
 Move to this code 
 Type npm i
 when all modules are installed . 
-type node index.js
+type node app.js
 
